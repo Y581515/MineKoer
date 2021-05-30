@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=KoeADT
+comment1.params=element
+comment1.target=void\ innKoe(java.lang.Object)
+comment1.text=\r\n\ Legge\ til\ et\ element\ bak\ i\ k\u00F8en.\r\n\ @param\ element\ er\ elementet\ som\ blir\ satt\ inn\ i\ k\u00F8en\r\n
+comment2.params=
+comment2.target=java.lang.Object\ utKoe()
+comment2.text=\r\n\ Fjerner\ og\ returnerer\ elementet\ foran\ i\ k\u00F8en.\r\n\ @return\ elementet\ foran\ i\ k\u00F8en\r\n\ @exception\ EmptyCollectionException\ unntak\ som\ kastes\ hvis\ k\u00F8en\ er\ tom\r\n
+comment3.params=
+comment3.target=java.lang.Object\ foerste()
+comment3.text=\r\n\ Returnerer\ elementet\ foran\ i\ k\u00F8en\ uten\ \u00F8\ fjerne\ det\ fra\ k\u00F8en.\r\n\ @return\ elementet\ foran\ i\ k\u00F8en\r\n\ @exception\ EmptyCollectionException\ unntak\ kastes\ hvis\ k\u00F8en\ allerede\ er\ tom\r\n
+comment4.params=
+comment4.target=boolean\ erTom()
+comment4.text=\r\n\ Returnerer\ sann\ hvis\ denne\ k\u00F8en\ ikke\ inneholder\ noen\ elementer.\r\n\ @return\ sann\ dersom\ k\u00F8en\ er\ tom\ ellers\ usann\r\n
+comment5.params=
+comment5.target=int\ antall()
+comment5.text=\ \r\n\ Returnerer\ antall\ elementer\ i\ k\u00F8en.\r\n\ @return\ antall\ elementer\ i\ k\u00F8en\r\n
+numComments=6

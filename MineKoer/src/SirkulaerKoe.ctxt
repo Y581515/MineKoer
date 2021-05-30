@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=SirkulaerKoe
+comment0.text=\r\n\ @author\ Ole\ Olsen\r\n\ @param\ <T>\r\n\ \r\n
+comment1.params=
+comment1.target=SirkulaerKoe()
+comment2.params=startKapasitet
+comment2.target=SirkulaerKoe(int)
+comment3.params=element
+comment3.target=void\ innKoe(java.lang.Object)
+comment4.params=
+comment4.target=java.lang.Object\ utKoe()
+comment5.params=
+comment5.target=java.lang.Object\ foerste()
+comment6.params=
+comment6.target=boolean\ erTom()
+comment7.params=
+comment7.target=int\ antall()
+comment8.params=
+comment8.target=void\ utvid()
+comment9.params=
+comment9.target=void\ show()
+numComments=10

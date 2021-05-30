@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=LinearNode
+comment1.params=
+comment1.target=LinearNode()
+comment1.text=\r\n\ \ \ \ Oppretter\ en\ tom\ node\r\n
+comment2.params=elem
+comment2.target=LinearNode(java.lang.Object)
+comment2.text=\r\n\ \ \ \ Oppretter\ en\ node\ med\ et\ element.\r\n
+comment3.params=
+comment3.target=LinearNode\ getNeste()
+comment3.text=\r\n\ \ \ \ Returnerer\ etterf\u00F8lger.\r\n
+comment4.params=node
+comment4.target=void\ setNeste(LinearNode)
+comment4.text=\r\n\ \ \ \ Setter\ neste\ til\ node\r\n
+comment5.params=
+comment5.target=java.lang.Object\ getElement()
+comment5.text=\r\n\ \ \ \ Returnerer\ elementet\ til\ denne\ noden\r\n
+comment6.params=elem
+comment6.target=void\ setElement(java.lang.Object)
+comment6.text=\r\n\ \ \ \ Setter\ nytt\ element\ for\ denne\ noden.\r\n
+numComments=7

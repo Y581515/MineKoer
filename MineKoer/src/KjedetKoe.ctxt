@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=KjedetKoe
+comment1.params=
+comment1.target=KjedetKoe()
+comment1.text=\r\n\ Oppretter\ en\ tom\ k\u00F8.\r\n
+comment2.params=element
+comment2.target=void\ innKoe(java.lang.Object)
+comment2.text=\r\n\ Legger\ inn\ et\ spesifisert\ element\ i\ k\u00F8en.\r\n
+comment3.params=
+comment3.target=java.lang.Object\ utKoe()
+comment3.text=\r\n\ Fjerner\ og\ returnerer\ elementet\ foran\ i\ k\u00F8en.\r\n
+comment4.params=
+comment4.target=java.lang.Object\ foerste()
+comment4.text=\r\n\ Returnerer\ elementet\ foran\ i\ k\u00F8en\ ute\ \u00E5\ fjerne\ det.\r\n
+comment5.params=
+comment5.target=boolean\ erTom()
+comment5.text=\r\n\ Returnerer\ sann\ hvis\ k\u00F8en\ er\ tom,\ usann\ ellers.\r\n
+comment6.params=
+comment6.target=int\ antall()
+comment6.text=\r\n\ Returnerer\ antall\ elementer\ i\ k\u00F8en.\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\r\n\ Returnerer\ en\ strengrepresentasjon\ av\ elementene\ i\ k\u00F8en.\r\n
+numComments=8
